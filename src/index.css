@@ -100,3 +100,10 @@ h1{
   align-items: center;
   border: 5px solid hsl(0, 0%, 80%)
 }
+body{
+  background-image: url(assets/background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
