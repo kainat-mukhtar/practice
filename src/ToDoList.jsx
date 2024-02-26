@@ -32,7 +32,7 @@ return(
             {tasks.map((task, index) =>
             <li key={index}>
                 <span className='text'>{task}</span>
-                <button className='delete-button'><Delete></Delete></button>
+                <button className='delete-button'><Delete></Delete>vvvvvvvvvvvvv</button>
 
             </li>
             )}
